@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+p{
+    font-size: x-large;
+}
+
+.section-one{
+    background-color:antiquewhite;
+}
+.description{
+    color: gray;
+}
+
+img {
+    height: 350px;
+}
+
+.hobbies {
+    background-color: aqua;
+}
+
+#footer{
+    color: whitesmoke ;
+}
