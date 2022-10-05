@@ -1,12 +1,18 @@
 h1 {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border: 3px solid;
+    font-size: x-large;
+    
     padding: 10px;
     margin: 20px;
-    
+
 }
 
+h1, h2{
+    border: 3px blue solid;
+    border-radius: 10px;
+    text-align: center;
+}
 p{
     font-size: x-large;
 }
@@ -14,12 +20,20 @@ p{
 .section-one{
     background-color:antiquewhite;
 }
+.section-two{
+    background-color:azure
+}
+.section-three{
+    background-color: black ; color:white
+}
 .description{
     color: gray;
 }
 
 img {
     height: 350px;
+    display: block;
+    margin: auto;
 }
 
 .hobbies {
